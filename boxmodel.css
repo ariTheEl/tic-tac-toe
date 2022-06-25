@@ -1,0 +1,33 @@
+/* p{
+    width:50%;
+    height:50%;
+    border:3px crimson solid ;
+    margin:5px auto;
+    padding:8px;
+} */
+td{
+    width: 150px;
+    height: 150px;
+}
+table{
+    margin: auto;
+}
+#b2{
+    border:5px inset blueviolet;
+}
+#c2{
+    border-top:5px inset blueviolet;
+    border-bottom:5px inset blueviolet;
+}
+#a2{
+    border-top:5px inset blueviolet;
+    border-bottom:5px inset blueviolet;
+}
+#b1{
+    border-left:5px inset blueviolet;
+    border-right: 5px inset blueviolet;
+}
+#b3{
+    border-left:5px inset blueviolet;
+    border-right: 5px inset blueviolet;
+}
